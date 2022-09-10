@@ -1,4 +1,17 @@
 body {
+    background-color: #191765;
     font-family: 'Roboto', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.header-section {
+    min-height: 650px;
+    background-image: url("image/bg-two-circles-header-bgimg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 563px;
+}
+
+.myname {
+  
+  color: #9391ff;
+  
+}
