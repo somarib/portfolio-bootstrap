@@ -48,6 +48,7 @@ hr {
   color: #fff;
   background-color: #191765;
 }
+
 .frmwk {
   color: #f5f5ff;
   font-size: 15px;
@@ -77,6 +78,7 @@ hr {
   color: #9490ff;
   padding-bottom: 20px;
 }
+
 .display-project1,
 .display-project2,
 .display-project3,
@@ -345,12 +347,12 @@ hr {
   from {
     margin-left: 100%;
     width: 300%;
-    }
+  }
 
   to {
     margin-left: 0%;
     width: 100%;
-}
+  }
 }
 
 .seeproject:hover {
